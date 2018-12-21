@@ -19,6 +19,9 @@ Testing Platform: Ubuntu-Linux
 Reference:
 
 https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
+
 https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
+
 https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+
 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
